@@ -1,0 +1,29 @@
+body {
+    background-color: #F5F5F5;
+}
+.navbar {
+    width: 100%;
+    height: 90px;
+    border-bottom: solid;
+    border-width: 3px;
+    height: inherit;
+    text-align: right;
+    margin-top: 1.5em;
+    padding-bottom: 1.5em;
+
+}
+.nav-menu li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+
+.button {
+    font-size: 25px;
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.button:hover  {
+    color: black;
+}
